@@ -1,4 +1,4 @@
-# natalia934
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff8fc7&height=90&section=header" width="100%"/>
