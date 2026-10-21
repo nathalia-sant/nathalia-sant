@@ -1,92 +1,135 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1c1c1c,100:000000&height=110&section=header" alt="" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff8fc7&height=90&section=header" width="100%"/>
+<sub>✠ &nbsp; ⸸ &nbsp; ✠</sub>
 
-# Nathalia Santos
+### 𝕹𝖆𝖙𝖍𝖆𝖑𝖎𝖆 𝕾𝖆𝖓𝖙𝖔𝖘
 
-**Backend Developer** · Computer Science Student
+<a href="https://github.com/nathalia-sant">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=3500&pause=1200&color=D9D9D9&background=00000000&center=true&vCenter=true&letterSpacing=3px&width=620&height=40&lines=BACKEND+DEVELOPER;DATABASES+%E2%80%A2+LINUX+%E2%80%A2+CLOUD;JAVA+%E2%80%A2+PYTHON+%E2%80%A2+C+%E2%80%A2+SQL;TURNING+CURIOSITY+INTO+CODE" alt="typing" />
+</a>
 
-Building a solid foundation in software engineering, with a focus on backend systems, databases and clean, maintainable code.
+<sub>⸻ &nbsp; ✠ &nbsp; ⸻</sub>
 
-![Status](https://img.shields.io/badge/status-open%20to%20opportunities-ff8fc7?style=flat-square&labelColor=000000)
+<img src="https://img.shields.io/badge/PUC_GOI%C3%81S-COMPUTER_SCIENCE-000000?style=flat-square&labelColor=1a1a1a" alt="university" />
+<img src="https://img.shields.io/badge/GOI%C3%82NIA-BRAZIL-000000?style=flat-square&labelColor=1a1a1a" alt="location" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-000000?style=flat-square&labelColor=1a1a1a" alt="status" />
 
 </div>
 
 <br/>
 
----
-
-## About
-
-I am a Computer Science student focused on backend development. I work with **Java** for object-oriented design and application logic, and **C** to understand how software behaves at a lower level, including memory management and performance.
-
-I also study relational databases, Linux and shell scripting, and I use Git and GitHub to version and organize my projects. I am looking for my first opportunity in software development, where I can contribute to real systems and keep growing within a team.
-
----
-
-## Focus Areas
-
-- Backend development and object-oriented programming
-- Relational databases and SQL
-- Linux environments and automation with Bash
-- Cloud fundamentals
-- Algorithms, data structures and systems programming
-
----
-
 <div align="center">
 
-## Tech Stack
+### ✠ &nbsp; A B O U T &nbsp; ✠
+
+</div>
+
+<p align="center">
+I am a Computer Science student at <b>PUC Goiás</b>, drawn to what happens behind the screen:<br/>
+the data, the logic and the systems that quietly hold everything together.<br/>
+My work centers on <b>backend development</b>, where I use <b>Java</b> to shape object-oriented,<br/>
+maintainable applications and <b>Python</b> to move fast on ideas and automation.
+</p>
+
+<p align="center">
+I care deeply about <b>data</b>. I model schemas, write <b>SQL</b> and work with <b>PostgreSQL</b> and <b>MySQL</b>,<br/>
+always asking how information should be structured before it is stored.<br/>
+To understand the foundations, I go down to <b>C</b>, where memory, performance<br/>
+and algorithms leave nothing hidden.
+</p>
+
+<p align="center">
+I am at home in the terminal, automating routines with <b>Bash</b> on <b>Linux</b>,<br/>
+packaging applications with <b>Docker</b> and learning how <b>cloud</b> infrastructure runs them in production.<br/>
+I am also exploring <b>generative AI</b> and how it can support the way software is built.
+</p>
+
+<p align="center">
+Now I am looking for my <b>first opportunity in software development</b>:<br/>
+a team where I can contribute to real systems, learn from experienced people and keep growing.
+</p>
+
+```java
+public class Nathalia {
+
+    public static void main(String[] args) {
+        Developer nathalia = new Developer("Nathalia Santos");
+        boolean curious = true;
+
+        nathalia.studies("Computer Science").at("PUC Goiás");
+        nathalia.builds("backend systems").backedBy("well-modeled data");
+        nathalia.automates("everything repetitive").onLinux();
+        nathalia.seeks("her first opportunity in software development");
+
+        while (curious) {
+            nathalia.learn();
+            nathalia.build();
+        }
+    }
+}
+```
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,c,python,bash,mysql,postgres,git,github,linux&theme=dark&perline=9" height="60"/>
+<div align="center">
+
+### ✠ &nbsp; T E C H &nbsp; S T A C K &nbsp; ✠
+
+<img src="https://skillicons.dev/icons?i=java,python,c,bash,postgres,mysql,linux,docker,aws,git,github,openai&theme=dark&perline=12" alt="tech stack" />
 
 <br/><br/>
 
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ff8fc7)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=ff8fc7)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff8fc7)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=ff8fc7)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=ff8fc7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=ff8fc7)
-![Cloud](https://img.shields.io/badge/Cloud-000000?style=flat-square&logo=icloud&logoColor=ff8fc7)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff8fc7)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ff8fc7)
+<img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/BASH-000000?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GENERATIVE_AI-000000?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/CLOUD-000000?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud" />
 
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
-## GitHub Activity
+### ✠ &nbsp; S T A T I S T I C S &nbsp; ✠
+
+<img src="https://streak-stats.demolab.com?user=nathalia-sant&background=000000&border=2E2E2E&ring=D9D9D9&fire=D9D9D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D9D9D9&sideLabels=8A8A8A&dates=5A5A5A&border_radius=4" alt="streak" />
 
 <br/>
 
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=nathalia934&hide_border=true&background=000000&ring=ff8fc7&fire=ff8fc7&currStreakLabel=ff8fc7&sideNums=ff8fc7&dates=4b5563&sideLabels=6b7280&currStreakNum=ffffff&stroke=1f1f1f"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathalia-sant&show_icons=true&bg_color=000000&border_color=2e2e2e&title_color=FFFFFF&text_color=A0A0A0&icon_color=D9D9D9&ring_color=D9D9D9&border_radius=4" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-sant&layout=compact&bg_color=000000&border_color=2e2e2e&title_color=FFFFFF&text_color=A0A0A0&border_radius=4" alt="top languages" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathalia-sant&bg_color=000000&color=D9D9D9&line=D9D9D9&point=FFFFFF&area=true&area_color=3a3a3a&hide_border=true&radius=4" alt="contribution graph" />
 
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
-## Contact
+### ✠ &nbsp; C O N T A C T &nbsp; ✠
 
-<br/>
+<a href="https://www.linkedin.com/in/nathalia-santos-063bab278/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" /></a>
+<a href="mailto:nathaliasantos5432@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Gmail" /></a>
+<a href="https://github.com/nathalia-sant"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ff8fc7)](https://www.linkedin.com/in/nathalia-santos-063bab278/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=ff8fc7)](mailto:SEU-EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ff8fc7)](https://github.com/nathalia934)
+<br/><br/>
+
+<sub>⸻ &nbsp; ✠ &nbsp; ⸻</sub>
+
+<sub><i>"Turning curiosity into code."</i></sub>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff8fc7&height=60&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1c1c1c,100:000000&height=70&section=footer" alt="" />
