@@ -23,6 +23,10 @@
 <div align="center">
 
 ### ✠ &nbsp; A B O U T &nbsp; ✠
+<p align="center">
+ <img src=" .<img width="735" height="896" alt="WhatsApp Image 2026-10-21 at 16 14 30" src="https://github.com/user-attachments/assets/ec1c30eb-6ffd-4e9c-bc62-e082e6cbece7" />
+</p>p>
+
 
 </div>
 
