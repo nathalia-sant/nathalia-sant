@@ -20,66 +20,32 @@
 
 <br/>
 
-<div align="center">
+<h2 align="center">✧ 𝔄𝔟𝔬𝔲𝔱 ✧</h2>
 
-### ✠ &nbsp; A B O U T &nbsp; ✠
-<p align="center">
- <img src=" .<img width="735" height="896" alt="WhatsApp Image 2026-10-21 at 16 14 30" src="https://github.com/user-attachments/assets/ec1c30eb-6ffd-4e9c-bc62-e082e6cbece7" />
-</p>p>
-
-
-</div>
-
-<p align="center">
-I am a Computer Science student at <b>PUC Goiás</b>, drawn to what happens behind the screen:<br/>
-the data, the logic and the systems that quietly hold everything together.<br/>
-My work centers on <b>backend development</b>, where I use <b>Java</b> to shape object-oriented,<br/>
-maintainable applications and <b>Python</b> to move fast on ideas and automation.
-</p>
-
-<p align="center">
-I care deeply about <b>data</b>. I model schemas, write <b>SQL</b> and work with <b>PostgreSQL</b> and <b>MySQL</b>,<br/>
-always asking how information should be structured before it is stored.<br/>
-To understand the foundations, I go down to <b>C</b>, where memory, performance<br/>
-and algorithms leave nothing hidden.
-</p>
-
-<p align="center">
-I am at home in the terminal, automating routines with <b>Bash</b> on <b>Linux</b>,<br/>
-packaging applications with <b>Docker</b> and learning how <b>cloud</b> infrastructure runs them in production.<br/>
-I am also exploring <b>generative AI</b> and how it can support the way software is built.
-</p>
-
-<p align="center">
-Now I am looking for my <b>first opportunity in software development</b>:<br/>
-a team where I can contribute to real systems, learn from experienced people and keep growing.
-</p>
-
-```java
-public class Nathalia {
-
-    public static void main(String[] args) {
-        Developer nathalia = new Developer("Nathalia Santos");
-        boolean curious = true;
-
-        nathalia.studies("Computer Science").at("PUC Goiás");
-        nathalia.builds("backend systems").backedBy("well-modeled data");
-        nathalia.automates("everything repetitive").onLinux();
-        nathalia.seeks("her first opportunity in software development");
-
-        while (curious) {
-            nathalia.learn();
-            nathalia.build();
-        }
-    }
-}
-```
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <p>
+        I am a Computer Science student at PUC Goiás, drawn to what happens behind the screen: the data, the logic, and the systems that quietly hold everything together.
+      </p>
+      <p>
+        My work centers on backend development, where I use Java to build object-oriented, maintainable applications and Python to explore ideas and automation.
+      </p>
+      <p>
+        I care deeply about data. I model schemas, write SQL, and work with PostgreSQL and MySQL. I also study C to understand memory, performance, and algorithms at a deeper level.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./WhatsApp%20Image%202026-10-21%20at%2016.14.30.jpeg" width="200" alt="Black and white artwork"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-### ✠ &nbsp; T E C H &nbsp; S T A C K &nbsp; ✠
+### ✠ &nbsp; 𝕿𝖊𝖈𝖍  &nbsp; 𝕾𝖙𝖆𝖈𝖐 &nbsp; ✠
 
 <img src="https://skillicons.dev/icons?i=java,python,c,bash,postgres,mysql,linux,docker,aws,git,github,openai&theme=dark&perline=12" alt="tech stack" />
 
@@ -103,7 +69,7 @@ public class Nathalia {
 
 <div align="center">
 
-### ✠ &nbsp; S T A T I S T I C S &nbsp; ✠
+### ✠ &nbsp; 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘 &nbsp; ✠
 
 <img src="https://streak-stats.demolab.com?user=nathalia-sant&background=000000&border=2E2E2E&ring=D9D9D9&fire=D9D9D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D9D9D9&sideLabels=8A8A8A&dates=5A5A5A&border_radius=4" alt="streak" />
 
@@ -122,7 +88,7 @@ public class Nathalia {
 
 <div align="center">
 
-### ✠ &nbsp; C O N T A C T &nbsp; ✠
+### ✠ &nbsp; 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 &nbsp; ✠
 
 <a href="https://www.linkedin.com/in/nathalia-santos-063bab278/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" /></a>
 <a href="mailto:nathaliasantos5432@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Gmail" /></a>
