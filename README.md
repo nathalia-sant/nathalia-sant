@@ -57,11 +57,8 @@
 <br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nathalia-sant&show_icons=true&bg_color=000000&border_color=2e2e2e&title_color=FFFFFF&text_color=A0A0A0&icon_color=D9D9D9&ring_color=D9D9D9&border_radius=4" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-sant&layout=compact&bg_color=000000&border_color=2e2e2e&title_color=FFFFFF&text_color=A0A0A0&border_radius=4" alt="Top languages" />
 
 <br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathalia-sant&bg_color=000000&color=D9D9D9&line=D9D9D9&point=FFFFFF&area=true&area_color=3a3a3a&hide_border=true&radius=4" alt="Contribution graph" />
 
 </div>
 
