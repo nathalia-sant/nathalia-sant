@@ -26,7 +26,7 @@
   <tr>
     <td width="65%" valign="middle">
       <p>
-        I am a Computer Science student at PUC Goiás, drawn to what happens behind the screen: the data, the logic, and the systems that quietly hold everything together.
+        I αm α Computer Science student αt PUC Goiαs, drαwn to whαt hαppens behind the screen: the dαtα, the logic, αnd the systems thαt quietly hold everything together. 
       </p>
       <p>
         My work centers on backend development, where I use Java to build object-oriented, maintainable applications and Python to explore ideas and automation.
