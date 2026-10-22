@@ -1,6 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1c1c1c,100:3a3a3a&height=140&section=header" alt="" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/nathalia-sant/nathalia-sant/main/WhatsApp%20Image%202026-10-21%20at%2021.25.16%281%29.jpeg"
+    width="100%"
+    alt="Banner preto e branco com figura alada"
+  />
+</div>
 
 <div align="center">
 
