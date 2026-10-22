@@ -24,13 +24,10 @@
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-000000?style=flat-square&labelColor=1a1a1a" alt="Open to opportunities" />
 
 </div>
-
 <br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2000&pause=100000000&repeat=false&color=FFFFFF&background=00000000&center=true&vCenter=true&letterSpacing=6px&width=500&height=60&lines=%E2%9C%A7+ABOUT+%E2%9C%A7" alt="𝕬𝖇𝖔𝖚𝖙" />
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=2000&pause=100000000&repeat=false&color=FFFFFF&background=00000000&center=true&vCenter=true&letterSpacing=3px&width=300&height=35&lines=%E2%9C%A7+ABOUT+%E2%9C%A7" alt="About" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
@@ -52,7 +49,7 @@ I care deeply about data. I model schemas, write SQL, and work with **PostgreSQL
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2000&pause=100000000&repeat=false&color=FFFFFF&background=00000000&center=true&vCenter=true&letterSpacing=6px&width=500&height=60&lines=%E2%9C%A7+TECH+STACK+%E2%9C%A7" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=2000&pause=100000000&repeat=false&color=FFFFFF&background=00000000&center=true&vCenter=true&letterSpacing=3px&width=300&height=35&lines=%E2%9C%A7+TECH+STACK+%E2%9C%A7" alt="Tech Stack" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
@@ -74,7 +71,7 @@ I care deeply about data. I model schemas, write SQL, and work with **PostgreSQL
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2000&pause=100000000&repeat=false&color=FFFFFF&background=00000000&center=true&vCenter=true&letterSpacing=6px&width=500&height=60&lines=%E2%9C%A7+STATISTICS+%E2%9C%A7" alt="Statistics" />
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=2000&pause=100000000&repeat=false&color=FFFFFF&background=00000000&center=true&vCenter=true&letterSpacing=3px&width=300&height=35&lines=%E2%9C%A7+STATISTICS+%E2%9C%A7" alt="Statistics" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8a8a8a,100:000000&height=2" alt="" />
